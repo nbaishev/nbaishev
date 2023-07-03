@@ -58,7 +58,7 @@ Here are some ideas to get you started:
     <img src="https://user-images.githubusercontent.com/112638163/233413583-3a426d0a-f257-42cd-8b7c-4d1bc3e4d2c8.svg" alt="pytest" width="30" height="30"/>
   </a>
 </div>
-# 
+
 ### 📊 My Stats 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nbaishev&theme=buefy)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nbaishev&theme=buefy)
