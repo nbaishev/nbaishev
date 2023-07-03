@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nbaishev&theme=buefy)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nbaishev&theme=buefy)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nbaishev&theme=buefy&utcOffset=8)
+[![My stats](https://github-readme-stats.vercel.app/api?username=nbaishev)](https://github.com/nbaishev/github-readme-stats)
