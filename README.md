@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 # 
 ### 📊 My Stats 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dazdik&theme=buefy)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dazdik&theme=buefy)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dazdik&theme=buefy&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nbaishev&theme=buefy)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nbaishev&theme=buefy)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nbaishev&theme=buefy&utcOffset=8)
