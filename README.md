@@ -1,19 +1,6 @@
 ### Hi there 👋
 
-<!--
-**nbaishev/nbaishev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### 💻 My Tech Stack:
 <div>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -34,8 +21,6 @@ Here are some ideas to get you started:
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/> 
   </a>
-</div>
-<div>
   <a href="https://cloud.yandex.ru/" target="_blank" rel="noreferrer">
     <img src="https://storage.yandexcloud.net/cloud-www-assets/region-assets/ru/favicon/favicon-120x120.png" alt="yandex.cloud" width="30" height="30"/>
   </a>
@@ -60,7 +45,6 @@ Here are some ideas to get you started:
 </div>
 
 ### 📊 My Stats 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nbaishev&theme=buefy)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nbaishev&theme=buefy)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nbaishev&theme=buefy&utcOffset=8)
-[![My stats](https://github-readme-stats.vercel.app/api?username=nbaishev)](https://github.com/nbaishev/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nbaishev&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nbaishev&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nbaishev&theme=github_dark&utcOffset=8)
