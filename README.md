@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 
+### 📊 My Stats 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dazdik&theme=buefy)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dazdik&theme=buefy)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dazdik&theme=buefy&utcOffset=8)
